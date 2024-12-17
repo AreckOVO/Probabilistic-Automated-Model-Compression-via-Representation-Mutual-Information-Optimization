@@ -1,4 +1,4 @@
-# Towards Fully Automated and Efficient Model Compression
+# Probabilistic-Automated-Model-Compression-via-Representation-Mutual-Information-Optimization
 
 
 # Requirements
